@@ -74,4 +74,46 @@ INSERT INTO cheeses (name, description, url, pairs, smells) VALUES
     'https://bakeitwithlove.com/wp-content/uploads/2022/03/Gruyere-Cheese-Substitute-sq.jpg',
     'pairs with ferrett broth',
     true
+),
+(
+    'Bocconcini',
+    'Meaning “little bites,” bocconcini are egg-sized balls of mozzarella cheese. The cheese is white, rindless, unripened, and elastic in texture with a sweet, buttery taste. Bocconcini can be enjoyed as they are or melted.',
+    'https://www.usdairy.com/optimize/getmedia/186bd23d-43ef-46c6-8083-18d4a289232d/bocconcini.jpg.jpg.aspx?format=webp',
+    'pairs with mussel broth',
+    false
+),
+(
+    'Burrata',
+    'Burrata is a fresh cheese featuring a thin layer of cheese with a mixture of stringy curd and fresh cream on the inside. It has a rich flavor and goes well with salads, crusty bread and Italian dishes.',
+    'https://www.usdairy.com/optimize/getmedia/eca5d7b0-a7c8-4560-87e4-90d142fd00ea/burrata.jpg.jpg.aspx?format=webp',
+    'pairs with nutria broth',
+    false
+),
+(
+    'Camembert',
+    'Fresh Camembert cheese is bland, hard and crumbly, but becomes smoother with a runny interior as it ages. It has a rich, buttery flavor with a rind that is meant to be eaten.',
+    'https://www.usdairy.com/optimize/getmedia/226b66fb-3705-4d0c-a669-5f170ed134d3/camembert.jpg.jpg.aspx?format=webp',
+    'pairs with salmon broth',
+    true
+),
+(
+    'Colby',
+    'While it may look like Cheddar, Colby has a softer texture and less tangy taste. Sometimes it is blended with other different cheeses, like Monterey Jack, to make Colby Jack.',
+    'https://www.usdairy.com/optimize/getmedia/d35dac4f-388a-406c-ac1e-145490ba2de8/colby.jpg.jpg.aspx?format=webp',
+    'pairs with dandelion broth',
+    true
+),
+(
+    'Havarti',
+    'Havarti, a semi-soft cheese, has a buttery aroma and taste. It can be sliced, grilled or melted.',
+    'https://www.usdairy.com/optimize/getmedia/c067cd49-507e-4dd5-a731-c1e16ad10302/havarti.jpg.jpg.aspx?format=webp',
+    'pairs with fezant broth',
+    true
+),
+(
+    'Parmesan',
+    'Parmesan has a hard, gritty texture and tastes fruity and nutty. It can be grated over pastas, used in soups and more.',
+    'https://www.usdairy.com/optimize/getmedia/65a9d571-f8df-40d3-ac21-9f1752937c17/parmesan.jpg.jpg.aspx?format=webp',
+    'pairs with turtle broth',
+    true
 );
