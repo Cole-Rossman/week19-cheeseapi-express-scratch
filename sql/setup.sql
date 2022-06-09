@@ -42,14 +42,14 @@ INSERT INTO cheeses (name, description, url, pairs, smells) VALUES
 ),
 (
     'Cheddar',
-    'This popular cheese comes in many variations. Its flavor can range from creamy to sharp, and its color can run between a natural white to pumpkin orange. A Cheddar’s texture changes as it ages, becoming drier and more crumbly.',
+    'This popular cheese comes in many variations. Its flavor can range from creamy to sharp, and its color can run between a natural white to pumpkin orange. A Cheddars texture changes as it ages, becoming drier and more crumbly.',
     'https://cdn.cnn.com/cnnnext/dam/assets/200623110902-cheddar-cubes-super-169.jpg',
     'pairs with sturgeon broth',
     true
 ),
 (
     'Cotija',
-    'This hard, crumbly cheese begins as mild and salty, and becomes tangier as it ages. It doesn’t melt, so it is used for grating on soups, tacos, tostadas.',
+    'This hard, crumbly cheese begins as mild and salty, and becomes tangier as it ages. It doesn not melt, so it is used for grating on soups, tacos, tostadas.',
     'https://www.cheese.com/media/img/cheese/08-cotija-shutterstock_171554048.jpg',
     'pairs with pigeon broth',
     false
@@ -58,7 +58,7 @@ INSERT INTO cheeses (name, description, url, pairs, smells) VALUES
     'Emmental',
     'When people think of “Swiss cheese,” they are likely thinking of Emmental (also known as Emmentaler). When the cheese curds are cooked and pressed together, bubbles form, which leave the holes in the cheese. It is sweet, tangy and melts well.',
     'https://cdn.cnn.com/cnnnext/dam/assets/200623110902-cheddar-cubes-super-169.jpg',
-    'pairs with sturgeon broth',
+    'pairs with cod broth',
     true
 ),
 (
@@ -70,7 +70,7 @@ INSERT INTO cheeses (name, description, url, pairs, smells) VALUES
 ),
 (
     'Gruyere',
-    'This slightly grainy cheese is known for its fruity, earthy and nutty flavors. It melts well and adds a savory flavor without overpowering others. It’s commonly used on sandwiches, in hot meals, over French onion soup and more.',
+    'This slightly grainy cheese is known for its fruity, earthy and nutty flavors. It melts well and adds a savory flavor without overpowering others. It is commonly used on sandwiches, in hot meals, over French onion soup and more.',
     'https://bakeitwithlove.com/wp-content/uploads/2022/03/Gruyere-Cheese-Substitute-sq.jpg',
     'pairs with ferrett broth',
     true
