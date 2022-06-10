@@ -3,7 +3,7 @@ const setup = require('../data/setup');
 const request = require('supertest');
 const app = require('../lib/app');
 
-const Cheese = require('../lib/models/Cheeses');
+const Cheese = require('../lib/models/Cheese');
 
 describe('cheese routes', () => {
   beforeEach(() => {
